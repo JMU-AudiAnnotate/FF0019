@@ -1,21 +1,45 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "JMU-AudiAnnotate",
+    "is_private": false,
+    "title": "Rita Dove Interview, 9/24/2004 (FF019)",
+    "description": "Rita Dove Interviewed by Camille Dungy",
+    "language": "en",
+    "slug": "FF0019",
+    "creator": "JMU-AudiAnnotate",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "Speaker",
+          "color": "#ADFFD9"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rita Dove",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Camille Dungy",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Speaker Unknown",
+          "category": "Speaker"
+        }
+      ]
+    },
+    "created_at": "2025-02-15T19:09:13.332Z",
+    "updated_at": "2025-02-15T19:09:13.332Z"
   }
 }
