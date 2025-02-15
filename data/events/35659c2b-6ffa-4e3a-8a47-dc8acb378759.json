@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "295c5101-4b93-4ccb-84a9-eb1ed7f6ffff": {
+      "label": "AV File 1",
+      "file_url": "https://apps.lib.jmu.edu/audiannotate/FF019.mp4",
+      "duration": 2209
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Rita Dove Interviewed by Camille Dungy, 9/24/2004"
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-02-15T19:13:10.576Z",
+  "created_by": "JMU-AudiAnnotate",
+  "item_type": "Video",
+  "label": "Imported Event 1",
+  "updated_at": "2025-02-15T19:13:10.576Z",
+  "updated_by": "JMU-AudiAnnotate"
+}
