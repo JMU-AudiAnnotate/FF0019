@@ -2,5 +2,3382 @@
   "event_id": "35659c2b-6ffa-4e3a-8a47-dc8acb378759",
   "source_id": "295c5101-4b93-4ccb-84a9-eb1ed7f6ffff",
   "set": "default",
-  "annotations": []
+  "annotations": [
+    {
+      "uuid": "bbbd1a8f-5e24-4893-aad9-16532896f4c3",
+      "start_time": 8.7,
+      "end_time": 12.27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rita Dove: Rita Dove. R-i-t-a, D-o-v-e."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ab3af87f-32bc-4c87-9af8-d2bf9927b807",
+      "start_time": 17.97,
+      "end_time": 18.96,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camille Dungy: Well, good afternoon."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "08f64d84-a940-49fe-98b9-447af1e87572",
+      "start_time": 18.99,
+      "end_time": 19.8,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rita Dove: Good afternoon."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "56d00519-bc23-455a-87bf-94aade169383",
+      "start_time": 19.89,
+      "end_time": 20.97,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camille Dungy: It's a pleasure to be here with you."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e0fa715c-2f55-4539-a06c-91ba4512f97d",
+      "start_time": 21.09,
+      "end_time": 22.59,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rita Dove: It's wonderful to be with you."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "62f5bdec-ce1b-453f-947c-678bc55a0e8d",
+      "start_time": 23.16,
+      "end_time": 24.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camille Dungy: And you have a new book out."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "eff97424-9c19-42ca-8006-d5e4f73fb3cc",
+      "start_time": 24,
+      "end_time": 34.62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rita Dove: I do, I do. American smooth. It's just out. Fresh off the presses. It feels good. I won't deny."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "38a96def-ef41-49c3-b5e3-389d43a21451",
+      "start_time": 36.51,
+      "end_time": 42.54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camille Dungy: Okay, so this book literally came out of the fire in some ways."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "76570a2c-d8c5-41ee-96ac-e7d63497adc9",
+      "start_time": 42.6,
+      "end_time": 55.59,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rita Dove: In a sense, yes. It was the phoenix that rose from the ashes. We had a house fire, 1998.  Lightning struck our house and it-- beyond the fact that that's the kind of tragedy you work your"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8feeb49d-3b10-49ba-8d07-1c984bffd362",
+      "start_time": 55.59,
+      "end_time": 70.32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "way out of, it also kind of split the work in certain ways. Things that-- I identified poems, as before the fire, and after the fire. And at that point I was about halfway through a book which has"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d5eccfb0-0e31-48c4-9693-10908c0d7106",
+      "start_time": 70.38,
+      "end_time": 75.96,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "taken a different path since then. And the path that it took turned out to be American Smooth."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f7135747-cd3a-4c9c-80b9-246cd9d7d89f",
+      "start_time": 77.25,
+      "end_time": 89.85,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I began, my husband and I began ballroom dancing because of the fire, because our neighbors said, \"Oh, get out of the ashes, buy a dress, go out. Let's have fun.\" And when we saw people dancing, we"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "aa8855ae-e075-417a-9e08-77742bbe6e16",
+      "start_time": 89.85,
+      "end_time": 102.33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "said, oh, we always wanted to do that. And there's a feeling of-- oddly enough of incredible freedom after such a big thing happens to you, where you feel like \"Well, I'm alive and that's all that"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b527deee-42b3-4f00-9dcd-8d090cfeab6c",
+      "start_time": 102.33,
+      "end_time": 104.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "matters. And I can do anything I want.\""
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "de7da884-1981-45d8-ada3-d7c644349ce3",
+      "start_time": 104,
+      "end_time": 121.88,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, the little things fall away. And we thought, we're just gonna dance. So we did. The title, American Smooth, is a type of ballroom dancing. It's the American, more jazzy version of"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0f154633-d8f6-4dc4-8254-77d43b2f3549",
+      "start_time": 122.15,
+      "end_time": 124.4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "foxtrots, tangos, and waltzes."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "950d1570-deeb-4ec1-8504-7a811b9ced75",
+      "start_time": 124.91,
+      "end_time": 137.36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And when I first heard this term, I thought, American Smooth,  that's just representative of so much that is, for me quintessentially American. And when I say quintessentially American, I mean"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0ac480fa-aeb2-4002-9ab8-4232bbfacb0c",
+      "start_time": 137.36,
+      "end_time": 152.81,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "more African American, jazzy, the way you kind of riff on things and make them your own. And that became the overlying metaphor for the entire book, the idea of taking whatever it is, being what"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "012e24f5-5b0b-4b41-b5f4-a6b916b88553",
+      "start_time": 152.81,
+      "end_time": 156.14,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "history hands you or a dance style, and making it your own."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "92b945b9-704a-4dc0-b46f-28b4fb61d403",
+      "start_time": 158.22,
+      "end_time": 170.61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camille Dungy: How-- you speak several different languages, in a matter of speaking. You speak English, you speak German, and you have an ability to pick up the nuances and intonations about their"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "32764b31-07b5-4f86-b8e4-aeec6dacf800",
+      "start_time": 170.61,
+      "end_time": 176.07,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "languages. You're also a musician, right? You play the viola de gamba and the cello,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f0ac4a16-e0fd-4d28-8e21-cfbb0510081b",
+      "start_time": 176.4,
+      "end_time": 195.84,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and now you speak the language of dance, which has its own technical terms and its own ways of physical language. How has the language of dance influenced your poetry, and do you see it differently"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e93efa25-d3c0-4fd0-b04f-002bf62ffa22",
+      "start_time": 195.84,
+      "end_time": 200.4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "influencing your poetry than the music or the German have?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b764c7a6-d077-481d-9983-a9defe71f41c",
+      "start_time": 201.39,
+      "end_time": 216.36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rita Dove: It's an interesting question because I think all of us do have different languages, as you say, that we that we move by, that we think by. And it may be too soon for me to be able to answer"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b921aa1e-2564-46ac-8a0d-01b09f8f77ee",
+      "start_time": 216.36,
+      "end_time": 230.1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "that question as well as I'd like to, except that I could say that what has happened because of dance, and this is-- is that there's more physicality involved in my life, even just because you move,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "259740ff-4977-4d60-9515-4b6e56941396",
+      "start_time": 230.4,
+      "end_time": 231.75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "you have to move in your dance."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "53cb0d6d-502a-4764-a5d8-70b7f12c1e60",
+      "start_time": 232.23,
+      "end_time": 245.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But I think it also has informed the poems: that they really want to get up off the page and just walk around, strut around. So I think there's a little-- there's an energy in them that's different"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a9ca8c81-cfe9-4d6c-9791-f03f81a082a7",
+      "start_time": 245.82,
+      "end_time": 247.53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "than the energy that happened before."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7d7573a6-c6c8-4148-ae9e-243c090d4ac3",
+      "start_time": 248.25,
+      "end_time": 262.11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I've always been, as you said, intensely musical and the poems have been intensely musical in the sense that I really do believe that if a poem doesn't sing, it has no business being a poem. It has to"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "83406aeb-e04e-4dec-b224-67549d1b1db3",
+      "start_time": 262.11,
+      "end_time": 276.12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "have its own music, but it has to sing that music without any kind of shame. And I've had different kinds of music, so I think of my poems, now they're actually getting up walking around, as I said."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b2dc787a-1466-429a-80d9-672a08d6a84c",
+      "start_time": 277.89,
+      "end_time": 287.82,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camille Dungy: You've talked, you were talking in particular about Mother Love I think when you said this, but you talk about poetry being a cage whose walls you're working against with the"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "348337e3-1397-4c58-a930-d7c46377b944",
+      "start_time": 287.82,
+      "end_time": 297.75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "sonnets in Mother Love and so you're feeling with these new poems that there's a difference then that is not the restriction of the cage, or is it a different type of...?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c77922c0-c77c-463f-b4a9-dbd147b38ffa",
+      "start_time": 297,
+      "end_time": 306.93,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rita Dove: It's a different cage. Different cage, that's alright. I mean, musicians can tell you, they have cages all over the place-- I mean there are measures and there are bars, there are key"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "96be1525-3794-4c3f-8be5-7053bf04a95d",
+      "start_time": 306.93,
+      "end_time": 316.08,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "signatures and there are time signatures. And in dance there are, I mean you-- no matter what kind of dance you do, you have to dance to the music."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "95e18a92-3f39-4ca6-889d-211ed5f3f121",
+      "start_time": 318.06,
+      "end_time": 330.63,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the dance, in the poems which are particularly about dance, specifically about dance in the book, I actually do try to get the cadence of the dances so that, for instance in a poem like Fox Trot"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d1c209ea-23cf-410b-a93a-79377af5bedf",
+      "start_time": 330.66,
+      "end_time": 337.11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fridays, it tries to have that easygoing stroll-- almost lilting stroll of a Nat King Cole song."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d898197a-aa4c-44cc-a3de-1198e2d5cbd4",
+      "start_time": 337.57,
+      "end_time": 351.64,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Or in a poem called Bolero, which is a Latin dance that has a very long, it's a very slow and sensuous dance. The poem has a very long line, combined with two short lines so that you have a"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f591c52d-4989-4838-9bd6-467fe443a62f",
+      "start_time": 351.64,
+      "end_time": 359.77,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "little snap in it. So there are different kinds of formal cages that the poems are into that imitate the music. But it's just a different kind of cage."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "29a4b821-f03d-4852-946b-202f2a4545ba",
+      "start_time": 359.79,
+      "end_time": 374.61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think that maybe cage is a, has a pejorative sound. I don't think of it that way. I mean, I think of that as just the-- it's the tennis net you play with, you know, and it's the thing you get around"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "56109cf3-6520-4b36-beb1-404755da4005",
+      "start_time": 374.61,
+      "end_time": 385.65,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and say, hey, look, it's the basketball hoop. It's what you want to swoosh when you get through. And I think of it more as a challenge than as something that's restrictive."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "57f02761-c47c-47ed-94af-fc1adc2a09bb",
+      "start_time": 390.19,
+      "end_time": 405.82,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camille Dungy: You talk about the different ways that you use this term American Smooth, and what that implies in terms of being American and operating in this world. And one of the things that"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "eee33198-3165-40ad-86ab-b7b084a37e02",
+      "start_time": 406.81,
+      "end_time": 412.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "is a central part of the book are soldiers from World War One."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "eb6bba72-106e-4fa5-ba41-ac7c4252e6d9",
+      "start_time": 412.74,
+      "end_time": 413.31,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rita Dove: Yes."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "11fde972-d679-4ac4-b678-4daba9625249",
+      "start_time": 413.88,
+      "end_time": 426.24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camille Dungy: Could you talk first a little bit about how you became interested in these soldiers, and in particular, in the journal that you use with the poem passages."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e46e68a2-5e63-43bd-a273-f1df036e9388",
+      "start_time": 428.49,
+      "end_time": 445.62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rita Dove: This story starts a long time ago, it-- really those poems started, oh gosh, about 15 years ago. It started with a photo that I had seen in-- and I can't even tell you where. A history of"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b6c1a206-c0d9-4534-a529-8c6e6c8af0b3",
+      "start_time": 445.62,
+      "end_time": 463.8,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "African Americans where there was a beautiful photo of the Black regiments that played music in World War One. And they were marching up Fifth Avenue in a perfect formation in the victory march."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d576b65b-f782-4c6b-b117-62683514ce2d",
+      "start_time": 466.51,
+      "end_time": 481.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "this. And so I began-- I was curious. How was it that there was an all-black unit?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "38bd227f-b4da-415c-8434-b9a79c424953",
+      "start_time": 481.51,
+      "end_time": 495.13,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How did they enter the war? And the more I read the more fascinated I was. The fact is is that they were not under American command, but they entered the war under French command because the Americans"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4aae4258-d534-4524-b846-30d525225ca1",
+      "start_time": 495.61,
+      "end_time": 510.13,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "had a segregated army and didn't know how to get these African American soldiers in the American army right next to the white soldiers. And when you, it's one of these absurd situations that this"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8432cd52-33aa-4cbd-be26-871dc3794127",
+      "start_time": 510.13,
+      "end_time": 511.6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "country gets itself into."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "46a197cf-3a11-4ab3-83fa-839e6bfe0c11",
+      "start_time": 512.29,
+      "end_time": 523.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And that irony, this incredible irony that they were fighting for this war that was supposed to make the world safe for democracy, coming from a country that clearly wasn't following any rules of"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c0967426-7b8e-4d23-a61f-ab03baf3054b",
+      "start_time": 523.48,
+      "end_time": 536.5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "democracy, and coming back to a country that still was not going to live up to its promise of democracy. All of these ironies began to gnaw at me. So that's how I became interested."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "05fd9b01-b300-45ff-bf94-d51e710cfd45",
+      "start_time": 537.22,
+      "end_time": 552.76,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The more I read, the more I was amazed that so little was known about these men. They were-- they distinguished themselves in combat, they got more crosses of honor from the French, not from this"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d9275e1c-97e1-4989-b549-becfc2f132aa",
+      "start_time": 552.76,
+      "end_time": 562.33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "country, that you could, you know, shake a stick at. They didn't have adequate training yet they went over there, and were the first to reach the Rhine."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "bdaf9ea4-2caf-4837-8870-17a5dc7473a0",
+      "start_time": 562.81,
+      "end_time": 579.4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And, you know, certain units like Lieutenant James Europe's band, they played jazz everywhere, and in a certain way were the goodwill ambassadors for this country in a very ironic way. So that's how"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "055cf0ff-b0df-4a2c-8982-6a9daa87bebd",
+      "start_time": 579.4,
+      "end_time": 588.61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "it started, and then I began thinking about well, how do you want to present-- I knew that I wanted to write about them. I said, but how do you want to present this and I thought the best way to do"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b047f8f1-c5e2-4838-ae38-2931c66c5ae4",
+      "start_time": 588.61,
+      "end_time": 592.84,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "this was to-- is individuals, let each man talk."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3df8dae4-1eac-4a0e-bcc9-ff92fc1c60f9",
+      "start_time": 595.09,
+      "end_time": 610,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Different men from different different aspects, and the poem that you referred to, Passages, that was a wonderful situation actually because the-- I met a man who had been in one of the Black"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0852832b-41a8-4700-84f6-d7b645173714",
+      "start_time": 610.36,
+      "end_time": 623.89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "regiments during World War One who lived in Tucson, Arizona. I was living in Arizona, in Phoenix at the time. And when he heard that I was doing this project, he said, You know, I have a diary, you"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "cdbe2f14-fab6-4314-b2a4-7a3dea50ddbf",
+      "start_time": 623.89,
+      "end_time": 627.34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "might want to talk to, might want to interview me. I said, would I ever? Let me ask--"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "de8a9b8b-7983-45dd-84cb-ca7f5d74e5b4",
+      "start_time": 627.76,
+      "end_time": 640.33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I went, Fred and I, my husband and I went down to Tucson and spent a wonderful afternoon with him and his wife. And, and just, and he gave me his diary. He said, 'Well, you know, I'm not going to"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b760940e-62cc-4ad8-8336-4bfda1551fbb",
+      "start_time": 640.33,
+      "end_time": 654.37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "use it anymore,' he said, 'I remember it.' He says, 'I don't need the diary'. So Passages, this very long poem, which details his travel by ship across the Atlantic to enter into war, not knowing"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8274bf99-5cc2-4748-94ae-bc0cd9fc4f8e",
+      "start_time": 654.37,
+      "end_time": 661.27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "what's going to happen, is, so much of it is-- I tried to be true to what he said, his words."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "95041f50-759e-4248-86dc-f712c90b7555",
+      "start_time": 661.87,
+      "end_time": 675.58,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The, in a way, in a certain way the innocence, the hope that he had. And in a certain way also kind of a stoicism, like, \"Okay, we're going over, I'm not going to be afraid I'm a soldier. And I'm"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "13c118d7-a150-4882-a762-18693082bd6f",
+      "start_time": 675.58,
+      "end_time": 679.45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "going to do this.\" That honor, with which he entered battle."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0b4df55a-8133-442f-91d9-81f97870d002",
+      "start_time": 681.79,
+      "end_time": 694.06,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camille Dungy: I see in your work several different approaches to history. There's a sort of history from an official sense, this is the story we have and let me reinvestigate the story. There's the"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "99a6f9f4-caa3-42d6-b816-58be256f9054",
+      "start_time": 694.06,
+      "end_time": 697.27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "personal history, just as you're talking about Peyton's journals."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "9ca02d1a-9dcb-4b7e-bd8d-0cbae886e32f",
+      "start_time": 697.57,
+      "end_time": 712.6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then there's the speculative history as you're talking with the James Europe poems. That these are stories we have, images you have about James Europe, Hattie McDaniel, that we-- you reimagine in"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "fd8a3452-cc44-4ab9-bc07-aa9a8c152f2e",
+      "start_time": 712.6,
+      "end_time": 724.06,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "a sense what might have been the story of that story, or the story behind the story. In many of the poems in [On] The Bus With Rosa Parks, you look at figures in bus boycotts we don't often"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5e85c7c9-8f03-4996-9ff1-c934b4435221",
+      "start_time": 724.06,
+      "end_time": 724.87,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "hear about,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "46bbb65f-ea29-4d3d-92f0-700898768810",
+      "start_time": 725.23,
+      "end_time": 725.68,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rita Dove: Yes."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "eae87af8-8146-40fa-b9b8-6ee3b2da4901",
+      "start_time": 725.68,
+      "end_time": 736.09,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camille Dungy: as well as Rosa Parks. What do you think of that intersection between those different kinds-- an official history, a personal history and a speculative history? How do you-- do you"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "83d916f1-05bb-4d95-a5d5-59747c125824",
+      "start_time": 736.09,
+      "end_time": 739.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "consciously work with those? Or do you find yourself working with them?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "92763a2b-e6cc-4310-9021-aeacc121e8ae",
+      "start_time": 740.23,
+      "end_time": 753.85,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rita Dove: Probably both of those things. I consciously work at them, those intersections, because I find them fascinating, where the History of the capital H intersects the small, the lowercase"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5c245615-a444-45e1-9824-c4c3c55e7367",
+      "start_time": 753.85,
+      "end_time": 760.75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "history. But I also find it creeping up on me. I think we all experience history on all of those levels."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7ec45eb2-8ba1-403d-b58d-d741c9d8e48b",
+      "start_time": 760.93,
+      "end_time": 774.58,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There's the talk, you know, on the street, and then there's the front each of us puts up which is another level of personal history, but still it's already a revision of history. And then there's the"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "14050ef4-4910-4500-bc64-9396bb2750c1",
+      "start_time": 774.58,
+      "end_time": 791.74,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "official history and-- which is whatever gets written down and lasts. I think, as a Black woman I from a very early age was aware of the ironies and the discrepancies, let's say, between history as I"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4868f5fc-27b8-4b1b-abfd-a9f7517ea7cd",
+      "start_time": 791.74,
+      "end_time": 794.71,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "experienced it, and history as it was told."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5189c74a-f6d8-4f71-9dbb-09c7b0b20b99",
+      "start_time": 796.12,
+      "end_time": 807.85,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So that makes-- in the, you know, the words of DuBois, you know-- and that gives you that binocular vision when you're not in the mainstream, but you know of the mainstream and can do the mainstream"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "964b0c3d-80b4-415a-b9b5-e09d652ff0ab",
+      "start_time": 807.85,
+      "end_time": 824.5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "if they asked you to do it. And all of those things I find just fascinating. And I also think that's the point where we can be most aware of the ways in which we negotiate life. From the most"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "2665e113-9483-49c3-a262-c592dfbf0557",
+      "start_time": 824.56,
+      "end_time": 833.2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "innermost feelings to the outward presentation. So I'm at that intersection, at that crossroads, and I love it."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "2ca193ea-f61a-4d24-ab6e-28dea978ef9c",
+      "start_time": 835.45,
+      "end_time": 852.37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camille Dungy: You said before that when you were born, coming, sort of, too young to be really actively in Vietnam or in the Vietnam protests or actively in the Black Arts Movement, but old enough to"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "12761733-09e8-43ef-8405-f22c8ddae681",
+      "start_time": 852.4,
+      "end_time": 866.41,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "be impacted by it and to sort of be aware of what was going on and following it has affected who you are as a person as an as a poet. Do you think that affects some of this, of what you're talking"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5f818121-e8a9-46d5-940e-57e73feec81b",
+      "start_time": 866.41,
+      "end_time": 869.56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "about of where and how you look at history and write about it?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3435242c-5610-40b1-9183-cb8360b7f2d2",
+      "start_time": 871.72,
+      "end_time": 895.66,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rita Dove: Yes, it does. Because I was 17 in 1970, I'm just trying to figure out the numbers, but I was at that point, you know, the riots in Watts happened five years before that. I was aware of them"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "dc5c70f1-f8ca-4292-9ebb-11916440e24d",
+      "start_time": 895.9,
+      "end_time": 906.61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and knew about them. Obviously, I was 12 years old, I couldn't really, you know, I couldn't really actively engage in it. I listened to the adults as they talked about things."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f2be3df6-c94f-48af-b443-6526606e5396",
+      "start_time": 908.23,
+      "end_time": 923.56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think, for a large part of my life when I was growing up, I felt that I was watching history occur, and wanted to get in it, but just kind of watching it. I remember on my 10th birthday... No, my"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "18eeb38b-7d96-4fc7-97fa-d2f7d0c6eb83",
+      "start_time": 923.56,
+      "end_time": 937.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "11th birthday, there was a march on Washington. And we went down to Washington and my father marched in it, you know, and I was in my cousin's house watching on TV. You know, and so there was always"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "9620f7f7-d7ac-45ec-b8dc-35269da5b78e",
+      "start_time": 937.15,
+      "end_time": 940.3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "those kind of frames that I was looking through."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "68df2c95-c43f-4143-830c-ffa4a2e00573",
+      "start_time": 941.44,
+      "end_time": 957.91,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I think that, yes, it did have a great influence that I was too young to go out on the streets and protest. It also sets me though to questioning and I think every human being questions themselves"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d950bcec-e8d7-4936-8a39-c2f64627e154",
+      "start_time": 957.91,
+      "end_time": 960.28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "at some point about things like this, but."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "62907f3b-fbfe-436f-a76d-ac77187bd50a",
+      "start_time": 960.73,
+      "end_time": 972.94,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, if I had been old enough, would I have gone out or not? You know I always ask, what-- would I have been the person to stay on the bus? Would I have been the person to get arrest-- you know, how"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "18591771-0057-427f-bad1-9a5db0b7503b",
+      "start_time": 972.94,
+      "end_time": 983.62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "much do we imagine that we would do something and how much are we-- will we really be ready to put it on the line? And that is, of course, what's happening in the book On the Bus With Rosa"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "38c45670-b613-4a75-8664-54c87622fdf9",
+      "start_time": 983.65,
+      "end_time": 996.82,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Parks is kind of questioning, you know, would we have been ready to do that? Would each of us have been ready to do that? But I think that being on the sidelines perforce when I was growing up"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1c63d73c-1543-4c41-8b13-48a116751339",
+      "start_time": 997.21,
+      "end_time": 999.46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "made me think about that, perhaps earlier than some."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d3b288d7-db00-4226-a6fe-dad3d2f49f18",
+      "start_time": 1001.07,
+      "end_time": 1004.58,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camille Dungy: Do you think you were too young to have gone on the march, or do you--?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "df7d0d11-f5af-4840-9398-183262961c19",
+      "start_time": 1006.43,
+      "end_time": 1016.3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rita Dove: I remember when I was 11 years old and watching on television, I had wanted to go on the march in Washington and my cousin said, 'Oh, you're just young, you're too young. You know, you"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8acef585-212f-4a2d-8cee-7e9054f69ec6",
+      "start_time": 1016.3,
+      "end_time": 1020.29,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "should just stay here.' I wanted to do this, I really felt I wanted to be part of that."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7c58f3a1-a819-4f2d-8eeb-f3acdd1f25ce",
+      "start_time": 1022.42,
+      "end_time": 1038.65,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I don't know if I was too young, in-- when I was graduating from high school to have done something. And Watts was over in California, and I was in, you know, Ohio. So I mean I think that I was"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e0969e1e-e758-44d4-ada2-8a6f57a4e5d0",
+      "start_time": 1039.37,
+      "end_time": 1044.98,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "spared that choice. Let's put it that way. Mmm Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8c1f162c-78a5-4b07-9361-8f21dedaabff",
+      "start_time": 1045.91,
+      "end_time": 1055.99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camille Dungy: Let's talk a little bit about being spared the choice of-- I would imagine that part of what your father's idea of not taking his 11 year old daughter to the march was the potential for"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b1dfb98e-9cb8-4604-91b6-611206b353d5",
+      "start_time": 1055.99,
+      "end_time": 1056.5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "danger."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5876dc2f-1d70-4e24-813e-ebe41c2910bd",
+      "start_time": 1056.53,
+      "end_time": 1057.01,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rita Dove: Yes."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "cc996ecf-5e52-4801-a357-bb3b76499cd2",
+      "start_time": 1057.04,
+      "end_time": 1072.04,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camille Dungy: And the potential for harm coming to you. And in many of your poems there's always this potential for violence, this sort of barely masked sense of destruction or potential for, just,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6217da08-cbbf-48b1-803f-8279269e3c70",
+      "start_time": 1072.07,
+      "end_time": 1085.42,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "disruption. And you even speak about it in the epigraphs to one poem where you say that our heart is forged out of barbarism and violence, and that we learn to control it."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "be6a25ed-cbfa-4f5e-a27f-8c92dc9578f8",
+      "start_time": 1086.83,
+      "end_time": 1101.53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Can you talk about that way that that tension between the potential for violence and the decision not to act in violence is coming through in your poems? I'm thinking in particular perhaps of"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d1376fb4-8440-4ecc-83f7-c6428f0481df",
+      "start_time": 1102.19,
+      "end_time": 1104.11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Meditation at Fifty Yards."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "674e29bd-49ec-4cc5-9ace-a5a65f2c2450",
+      "start_time": 1104.11,
+      "end_time": 1120.55,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rita Dove: Moving Target. Let me say first that that idea of mastering the potential for violence, was, in a certain way, the way I was raised. I was raised in the non-violent tradition, I think in"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "92232fcf-c840-46c0-a2c0-91479fd8f263",
+      "start_time": 1120.55,
+      "end_time": 1132.37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the sense that you don't let them see you sweat. You know, your enemies. You don't let-- that if you explode in violence that they've won in a way. What you do is you get better than they are and you,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "74ae7704-85f7-4506-9cb6-d6d99d7b67e7",
+      "start_time": 1132.43,
+      "end_time": 1133.66,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "you know, and you work at it that way."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "99c90bbc-88d2-476f-a01e-023fed5eaca1",
+      "start_time": 1133.96,
+      "end_time": 1150.43,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now, I think there are good things and dangers you said about either approach, but this is how I was raised. And being naturally shy, it was actually a path that I could, could work very well I think"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d1342c4a-88f8-4f12-bc04-04abb1079422",
+      "start_time": 1151,
+      "end_time": 1152.23,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and feel good in."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a77a639e-d4cc-4041-a834-abdb20fef142",
+      "start_time": 1154.3,
+      "end_time": 1177.19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I believe that my poems work well when they have that violence, just right under the surface ready to burst. As if they're, that it's more frightening, more threatening to feel that it is right there"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "314b9b96-bf16-4e25-88a7-6847699c4c1e",
+      "start_time": 1177.19,
+      "end_time": 1182.71,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "under this polite, contained exterior, okay?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "84a76e41-3171-4597-9b85-b60bb19538c3",
+      "start_time": 1182,
+      "end_time": 1198.41,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The poem Meditation at Fifty Yards, Moving Target is a poem about guns. And it's a poem about firing guns and the very eerie pleasure that that can give but also the danger of that. And in that"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "90859c61-8d82-48c5-b09b-6ebc34d6084a",
+      "start_time": 1198.41,
+      "end_time": 1211.88,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "poem, because it is the idea of guns and target shooting and gun control is such a, let's say very bristly topic, you know, in this country."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d67c9808-82c1-4a23-be35-a8cdcbff9ed4",
+      "start_time": 1212.84,
+      "end_time": 1223.85,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Everyone has an opinion and immediately our defenses raise up, or our protests. And I wanted to circumvent all of that and kind of sneak in and get at it. Because when I, my-- the personal story"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6fce5930-aed5-4769-861a-050bea82d110",
+      "start_time": 1223.85,
+      "end_time": 1236.99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "behind that is that my husband and I began to take up target practice. A friend of ours had said you need to know something about guns for self defense, and at least to know about them. He was a"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f27f86a4-5598-45e4-aca8-1c1379478def",
+      "start_time": 1236.99,
+      "end_time": 1244.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "retired general in the army and so he started out from the safety point, here's what you have to do, and this is what you know [inaudible]."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "07b3e79a-752f-409e-905c-543672165d84",
+      "start_time": 1246.47,
+      "end_time": 1257.75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As we began shooting these guns, and I was, of the guns, \"Forget it, I don't want a gun. You know, this is terrible, it's a horrible thing.\" And then I began to shoot this gun and I realized, well,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "23e5997e-02a7-4ca4-9684-2d438b458d70",
+      "start_time": 1257.78,
+      "end_time": 1269.84,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "you know, there's something very interesting going on here, because there's an immense pleasure, that one can get out of shooting a gun. Incredible sense of power and possibility."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "24a91630-8901-4241-9012-582897487106",
+      "start_time": 1270.11,
+      "end_time": 1284.33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now, I could sit here and I could deny those thoughts and say, No, this is bad, this is wrong, or whatever. But that doesn't get rid of the sensation. And I think it's also really important to"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "30b0fd97-74b8-4bf5-85b9-c247051bf016",
+      "start_time": 1284.33,
+      "end_time": 1294.92,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "acknowledge these kinds of feelings that come up in us if you're going to understand anything about it. Also, it's a wonderful thing to be able to hit any kind of target. And I'm not even talking"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "edcf06f4-5e83-4f9a-89b7-7ab589420ac1",
+      "start_time": 1294.92,
+      "end_time": 1297.23,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "about guns, I'm talking about all sorts of targets that one hits."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e937fb62-8eaa-42d4-a4b8-b9c5ab6cc5ea",
+      "start_time": 1297.48,
+      "end_time": 1308.46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So that started that poem. But I also wanted to get into that poem the sense of, well, look. Look at the beauty of this, look at the beauty of this name, Glock, or this name, Keltec. Just think about"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c2f2ea38-1d21-410b-a172-2fdc8e9fce1e",
+      "start_time": 1308.46,
+      "end_time": 1320.04,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "that. Now, in the middle of all that beauty, this thing can kill. And it can penetrate walls. And it can, you know, you can be defending yourself and end up killing someone in the next room because"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c8092fb1-498c-416c-b6f0-d862649c6cdb",
+      "start_time": 1320.04,
+      "end_time": 1325.32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "you shot at the burglar, realize that that kind of power unleashed the danger of it as well."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6ee736fe-ff98-4a3e-b3db-0ed23e385459",
+      "start_time": 1325.68,
+      "end_time": 1337.26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Not only the beauty, but the danger. Not only the danger, but the beauty. Both of those things. So that by the end of the poem, I realized I had to talk from the point of view of the bullet, which is"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e4159d81-f57e-45a1-ac63-382805dcc0d3",
+      "start_time": 1337.29,
+      "end_time": 1358.53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "kind of a strange thing to do. But there is something unimaginable about how fast and how single-minded a bullet is, and how completely without right or wrong, the bullet. It moves. So to go into the"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4774b6f0-279a-47a3-93e7-8c0f3cbbb41f",
+      "start_time": 1358.53,
+      "end_time": 1366.39,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "voice of the bullet was something that I really enjoyed."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c778b629-fb5b-489a-9a35-89cc350f347c",
+      "start_time": 1366.96,
+      "end_time": 1380.91,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It frightened, it scared me to death. But it also-- I also felt like, that, to get that sense of that bullet moving so fast, faster than thought in a way. But with an absolute-- it's pure body, a"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c2307cb2-760d-4608-ba5b-0cec28285f83",
+      "start_time": 1380.91,
+      "end_time": 1387.99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "bullet. It's got its physical sentiment, it takes the body with it, you know, as it barrels through."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c7423a62-8354-4e04-90ce-071d66482ca3",
+      "start_time": 1388.47,
+      "end_time": 1414.81,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And that kind of violence done in a restrained manner is to my mind more penetrating, and I'll use that, you know, with the pun intended, than an outburst of protest against it. Because a protest and"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4c52b97e-71b8-479f-a73c-3ef3d4ea0b08",
+      "start_time": 1415.14,
+      "end_time": 1426.78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "they're all good, too. But that only convinces the ones who already believe it. You know, we're preaching to the choir then. It's better to sneak in there and convince someone before they know that"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "75329a7b-14fd-4ecb-8815-8c8fec0b0398",
+      "start_time": 1426.78,
+      "end_time": 1428.1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "they're being convinced."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ac397d7d-32fa-45f0-8fc7-26690a3c39b3",
+      "start_time": 1430.07,
+      "end_time": 1440.33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camille Dungy: That poem, like many other of your poems, is in several parts. Why do you think you find yourself working from several angles?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "dd13d339-491c-472c-a6af-61f3fcdf51b9",
+      "start_time": 1441.5,
+      "end_time": 1451.61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rita Dove: Yeah, I do find myself working from several-- I noticed that the other night when I was giving a reading that, I said, Gosh, a lot of these poems are like four parts or something like that."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d08b6b01-9cc3-480e-ab62-4b70b2cb181d",
+      "start_time": 1453.65,
+      "end_time": 1465.74,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think it comes from again, it's that idea of being in the official history and then getting behind the history. There are many sides to truth, there are many facets to truth."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c5429f7c-4ef0-4073-b70c-902a01517f8d",
+      "start_time": 1467.54,
+      "end_time": 1481.31,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I am fascinated by exploring a situation from many different angles. Sometimes as with Thomas and Beulah, from the angle of the male point of view of the marriage, and then the female point"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4aba6ec9-5e31-4e7f-bab0-1c2a33dee1c9",
+      "start_time": 1481.31,
+      "end_time": 1492.2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "of view of the marriage. But in the case of Meditation at Fifty Yards, Moving Target, it's: let's look at it from Safety First look at it from gender, you know, men versus women and who's the"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "15fdcf28-5f6a-4640-a70f-184687185795",
+      "start_time": 1492.2,
+      "end_time": 1495.35,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "better shot. Let's look at it from the point of view of the bullet."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ffa036ae-352f-4669-b443-54ee93268c78",
+      "start_time": 1495.35,
+      "end_time": 1508.97,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Let's look at it from the very act of squeezing the trigger and how accurate and controlled an action that is, if you really want to hit something, compared to the idea of, 'Oh, man, we're just gonna"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f7b273f2-6f7c-41a0-9e19-42271f138724",
+      "start_time": 1508.97,
+      "end_time": 1524.84,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "shoot it up', you know. So those different angles, I think, in a way, enable-- well first of all they enable me to explore the many different sides of a topic to try to give a, if not a 360 degree"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c6724f0c-bda8-4f7d-b5d3-a464a66d8754",
+      "start_time": 1525.89,
+      "end_time": 1530.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "view of it, at least a three dimensional view of it by getting different angles."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a5e8c5c9-884f-4f78-8adc-153ec74c643f",
+      "start_time": 1530.87,
+      "end_time": 1545.54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For the reader of the poem, or the one who listens to the poem, I hope that it also gives them a chance to take a breath, and then plunge in and look at it again. To contemplate the moment thoroughly."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1cc72e14-c9b7-46ce-9a70-51eb4c5f7ab7",
+      "start_time": 1546.44,
+      "end_time": 1550.97,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And to do it by different angles gives one an opportunity to do that thoroughly."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5365e23e-a880-49f2-b989-71b36b777af2",
+      "start_time": 1551.75,
+      "end_time": 1562.1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camille Dungy: So do you sit down and say, I'm going to write a poem in four parts? Or do you write one part? And then say, this is finished and figure out a new angle of approach?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "cd82b0c9-f725-4987-9507-6bad6b900449",
+      "start_time": 1562.91,
+      "end_time": 1575.99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rita Dove: It's a good question. I can say, first of all, that I never sit down and say I'm gonna write a poem in four parts. On the other hand, it's rare that I will sit down and say-- and start"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "867633f7-aa8e-4b39-8d6a-e6a5b726b415",
+      "start_time": 1575.99,
+      "end_time": 1583.94,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "writing and then say, Oh, it isn't finished. At some point I realize it's going to be more than one part, I can't tell you how many."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b8ee7202-33f1-4cd9-8831-fb9fb3518095",
+      "start_time": 1584.32,
+      "end_time": 1599.35,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That poem in particular, I knew that there were two parts. Which was the first part which is called 'Safety First' and talks about how you should handle the gun. And I knew that there was going to be"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "16043949-05ad-45cc-aeae-1e21b59f7a59",
+      "start_time": 1599.35,
+      "end_time": 1611.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "a part about-- the third part, which is gender politics, which is-- because one of the things that I was fascinated by, I had not known about guns, was that women tend to be better shots than men"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f2461dd5-ce19-4441-b3fc-73b715e9aab2",
+      "start_time": 1611.86,
+      "end_time": 1619.18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "because our heartbeats are slower. And so we actually have less shake."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "19da3925-af5b-49cd-ac60-636d99104bee",
+      "start_time": 1620.23,
+      "end_time": 1632.11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When you get down to a heartbeat, and that's kind of, and so-- but actually, doing that part, led to the fourth part, the part about the bullet, which was the last thing that I thought I'd ever do,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "203cfffd-da76-4fa2-b50c-2f6a1d436be6",
+      "start_time": 1632.62,
+      "end_time": 1646.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "was write from the point of view of the bullet. But it led to that. By the time I got to the point where, oh, if it depends on a heartbeat, whether someone, you know, if a shot is really accurate, how"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "19252646-9b05-4ff6-88ab-91aea4fc5806",
+      "start_time": 1646.15,
+      "end_time": 1660.61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "close is that to pure body? How intimate is that? And then I thought, oh, gosh, I've got to do this bullet. This is, I thought people will think I'm out of my mind, you know? But, oh well."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "9c8219dd-16eb-49af-bc96-f8604c9655b5",
+      "start_time": 1663.47,
+      "end_time": 1681.89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camille Dungy: I've heard you speak before about the-- your training again, is growing up to be polite. And, and I hear it translated in what many critics say about your work, the defining feature"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6291e861-aa44-4562-9359-ffe383270334",
+      "start_time": 1681.89,
+      "end_time": 1693.71,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "being the reserve in your work. But you say that you need to struggle against that politeness, and I would imagine your very public roles as the US Poet Laureate and now the Virginia Poet Laureate"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "913d416f-a22a-45e4-8407-c1d2eed55ad6",
+      "start_time": 1693.74,
+      "end_time": 1699.5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "means that there's this public eye that you have to worry about: people are going to think I'm crazy writing about a bullet."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f925963c-d79c-4b2e-89a8-9130d7d7427f",
+      "start_time": 1699.5,
+      "end_time": 1699.77,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rita Dove: Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d3e4a6e2-2a2e-46ad-9581-02100d981a49",
+      "start_time": 1700.58,
+      "end_time": 1712.28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camille Dungy: How do you find yourself in the actual day to day practice of writing the poem working with and against this politeness or this reserve?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7981edcc-2941-4f6e-ab7e-ccb05a855ee8",
+      "start_time": 1714.22,
+      "end_time": 1733.54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rita Dove: When I'm writing, I think the only thing that I am concerned about is being absolutely honest. I don't believe in reserve when it comes to exploring whatever the topic is, whatever that"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "428fe3c0-8cef-479f-893b-58a960a158bd",
+      "start_time": 1733.54,
+      "end_time": 1744.07,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "moment is, as far and as crazily as it will take me. I may say to myself, oh, people are gonna think I'm crazy writing about a bullet, but I'm gonna write about that bullet. You know, and I think, Oh"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4e8729d1-bb0a-48d8-a79c-c7f178fd158c",
+      "start_time": 1744.07,
+      "end_time": 1745.99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "well, they might think I'm crazy or maybe they won't."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "47a784f6-1233-4dc1-b269-faabd132a741",
+      "start_time": 1747.34,
+      "end_time": 1759.22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In other words, I don't have any choice in the matter, as an artist, I feel, about whether I'm going to write about something or not or what-- and how deep I'm going to write about, I'm gonna write as"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "19842c36-43f6-4efc-890f-3e4ef0c7e142",
+      "start_time": 1759.25,
+      "end_time": 1770.14,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "deep as it needs to go. The reserve comes in the way that it's expressed, or let's say the craft of it, whether it-- what works for me."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "cf58b791-5a72-4065-929e-a221fc727b83",
+      "start_time": 1770.81,
+      "end_time": 1787.91,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I think that I do struggle-- struggle's the wrong word, but I do push against what for me is a sense of the way a poem should be for me, and what works for me. And then I push against that, that"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "dd0dc643-2b02-4f82-b88e-86622df9c5df",
+      "start_time": 1788.66,
+      "end_time": 1792.2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "more cadenced and that more polished surface."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "82364076-b821-41dd-a57e-a9e4a5c4e626",
+      "start_time": 1792.77,
+      "end_time": 1816.68,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I think that I do struggle-- struggle's the wrong word, but I do push against what for me is a sense of the way a poem should be for me, and what works for me. And then I push against that, that"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "459f7ef5-290b-4c94-ba4d-be9737016877",
+      "start_time": 1818.03,
+      "end_time": 1820.28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "more cadenced and that more polished surface."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "dcca2b60-24c8-425e-bcdb-2660205b11d3",
+      "start_time": 1822.74,
+      "end_time": 1840.59,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I think that for me the struggle comes as an artist between exploring a looser line, exploring a line that tends to-- or let's say a more rambling line, something that tends to be more exuberant,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ca041208-2763-4d81-bc0e-9d9c4ff9680c",
+      "start_time": 1840.95,
+      "end_time": 1853.52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "in that case, something like the Hattie McDaniel poem, which is not one sentence, but feels like one sentence, it just goes on and on and on and it's a kind of a rant and a wonderful sense, was a"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e4b65705-f977-4773-83e6-1e92b6bc5e53",
+      "start_time": 1853.67,
+      "end_time": 1857.33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "joyous release from me artistically, to be able to do."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "9047dcc3-1662-454e-a5da-24f65f051fee",
+      "start_time": 1859.7,
+      "end_time": 1885.47,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because it's not like a lot of my poems. Yeah. I don't find, I don't find it problematic, this reserve, but it is the thing that I work, it's my thing to work against. You know, it's my thing to keep"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a0da535f-336f-4594-885f-a5da0bcb3387",
+      "start_time": 1885.47,
+      "end_time": 1901.52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "pushing, keep pushing, keep reminding myself, Okay. Let's, you know, you try to be reserved editing yourself, let's see if you can let it go a little bit, let's be a little messier. Let's-- so, that's"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "cfaa0656-d750-4740-8c77-f1fd06bd6534",
+      "start_time": 1901.52,
+      "end_time": 1902.06,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the way it is."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e3aba349-2e72-41c7-a8a9-cef75208346d",
+      "start_time": 1904.58,
+      "end_time": 1911.81,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker Unknown: Camille, we've got about three minutes left, three or four minutes. So we need to be sure and touch on the conference themes."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ea07df5b-d88c-41f6-bee6-f64b1be9b94f",
+      "start_time": 1912.23,
+      "end_time": 1914.93,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camille Dungy: Yes, I will be sure to touch on the conference themes."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "61afe413-8e73-442f-9f07-82b2583cd727",
+      "start_time": 1924.26,
+      "end_time": 1933.92,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How do you think that your poetry has influenced poets and thinkers and others?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0de561e5-5810-4648-800c-2671dc3592fc",
+      "start_time": 1935.03,
+      "end_time": 1952.28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rita Dove: Whoo. That is a very big question. It's so hard-- Well, you know, gosh, it's also common to think that my poetry would influence others."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0d5c6c29-8649-4b1a-a129-ad63f6107da1",
+      "start_time": 1952.31,
+      "end_time": 1975.17,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think that, if anything, I'm part of a tradition that is still growing among African American poets, of having the freedom to write about anything we choose without it necessarily having to be about"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "88db4667-b40c-4968-85aa-f89f432fc6b1",
+      "start_time": 1975.44,
+      "end_time": 1978.77,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "being Black, whatever one imagines by that."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5f6f4859-dec1-4c68-9575-f1f0f29ced2b",
+      "start_time": 1979.13,
+      "end_time": 1999.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But emanating from the entire person, and having race, gender, age, all of these things emerge in the poems in the work as they are necessary. As it colors the life without trying to make a point of"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0b5a8679-579f-4054-870f-bfb2f6d4cc6d",
+      "start_time": 1999.86,
+      "end_time": 2000.01,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "it."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6f0c2d33-b4d4-40ae-9950-6cdb7b8886d6",
+      "start_time": 2000.91,
+      "end_time": 2017.71,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I hope that there's some influence among poets of my generation, I think, on younger poets, that they would not feel the burden of explanation. I call it the burden of explanation in that it's feeling"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d9e0f001-58ef-42d9-b5c1-c2555bc6b414",
+      "start_time": 2017.71,
+      "end_time": 2029.77,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "that as a quote unquote 'minority', and I hate that word, but as it's not in the mainstream, having to explain certain cultural references."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "56d2dd07-3656-4afa-9558-caf6c9904c5f",
+      "start_time": 2029,
+      "end_time": 2043.13,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, we have Norton anthologies, where they have footnotes, and they tell you what Keats said, and all this, you know, what this word means. And no one thinks anything of looking up all the"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "df2dadd1-b364-4af2-b53d-5365211337f0",
+      "start_time": 2043.13,
+      "end_time": 2055.16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "footnotes to The Wasteland. And yet, they would expect of most contemporary African American writers, someone could expect that they would tell them what Dixie peaches in the context of the"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "849c3e6f-1e0e-488a-bbcc-4aff600a2c45",
+      "start_time": 2055.16,
+      "end_time": 2064.55,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "poem, what I'm saying is to be able to say Dixie peach in the poem, and know that the audience will look it up, will be interested enough to look it up and won't say, well what does that mean?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e7c96a64-becc-4dfa-adb4-3e0deb7e1f5c",
+      "start_time": 2064.67,
+      "end_time": 2078.89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I mean, that's the burden of explanation. And I think the more diverse the writing becomes, the more it touches on all aspects of life and just-- as if it's the most natural thing in the world, the"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a0bd123a-8444-45d3-91ea-1f7b8b4d9ae0",
+      "start_time": 2078.89,
+      "end_time": 2087.83,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "more that burden will be relieved. And I do think that some of that has come out in my work for others."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5dcd81e0-c766-4185-a63e-5307cf682eef",
+      "start_time": 2088.79,
+      "end_time": 2093.77,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camille Dungy: So do you see African American poetry moving in any particular directions?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "239ca448-c996-444b-932e-ef891f3446c6",
+      "start_time": 2095.09,
+      "end_time": 2108.53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rita Dove: I see it moving in every direction you can look at and I think that's fabulous. I do think it's fabulous. Yeah, I mean, you have-- and I think that everything from performance poetry to"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "12139855-1887-4d9a-9f54-03837cc0fc2d",
+      "start_time": 2108.92,
+      "end_time": 2122.87,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "slam poetry to sonnets and villanelles. You see it all. And we're using all of the musics that are out there. And that's the way it should be. It's really the way it should be."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "bce1d05e-887d-497b-a4fc-85f0b26109fa",
+      "start_time": 2128.89,
+      "end_time": 2132.43,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker Unknown: Ti-- I mean if you have one more question. Otherwise... it's up to you."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "338e203b-c85e-40cd-bb51-a10fb26345f4",
+      "start_time": 2134.56,
+      "end_time": 2134.77,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "36 minutes."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "abaf0d45-350c-4b9f-b4d1-06361b160610",
+      "start_time": 2134.77,
+      "end_time": 2135.01,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "36 minutes?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "69c44303-e618-422b-bfdf-d6b4861c6460",
+      "start_time": 2135,
+      "end_time": 2139.83,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mhmm. Is there anything else you wanted to ask?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "475a0931-a88c-403d-8994-ad4d28f95c25",
+      "start_time": 2139.87,
+      "end_time": 2140.38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rita Dove: I don't know."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5655dc96-7a2e-42b4-9fca-ee2e568800fb",
+      "start_time": 2143.62,
+      "end_time": 2147.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camille Dungy: Well, I thank you very much for staying and talking."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "526693a5-e672-448a-9482-21c389d88a64",
+      "start_time": 2147.79,
+      "end_time": 2149.83,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rita Dove: You are welcome. It was a pleasure Camille."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "00ab6aaf-24d0-40e0-a6d9-fe3e2880d8be",
+      "start_time": 2149.83,
+      "end_time": 2153.43,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camille Dungy: It was, it was. I could stay and talk for hours and hours."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ffae3e3f-cedd-4fbe-871a-7f7b34df51cd",
+      "start_time": 2153.73,
+      "end_time": 2154.87,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rita Dove: That would start the glow."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4964c23f-9559-4157-98ef-399cf28d8b66",
+      "start_time": 2157.42,
+      "end_time": 2160.66,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker Unknown: [Inaudible] if you could just talk about 20 seconds, you know, we're just getting some cutaway shots."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "82b17cfd-5dfc-476c-bf47-fa1cbb22178b",
+      "start_time": 2160.66,
+      "end_time": 2161.68,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rita Dove: Oh, cutaway shots."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c7d3a434-8ad7-4504-8a7e-fd8611d3036a",
+      "start_time": 2162.16,
+      "end_time": 2162.85,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker Unknown: [inaudible] don't talk at once."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c7494788-254d-452b-a4d6-c519355c5f4b",
+      "start_time": 2163.54,
+      "end_time": 2164.53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rita Dove: Oh, cutaways."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "fee72623-0b18-453c-b84f-e942e3d69eb8",
+      "start_time": 2165.04,
+      "end_time": 2167.62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camille Dungy: It's the newscaster stuff when you wonder at the end what they're talking--"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a62b07bb-3a03-4613-bbe0-638b9145914c",
+      "start_time": 2167,
+      "end_time": 2171.83,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rita Dove: Right, yeah, they're going \"peas and carrots, peas and carrots.\""
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "debc9d1a-d105-44da-b403-71a5d73124b1",
+      "start_time": 2173.89,
+      "end_time": 2192.7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camille Dungy: Well I was actually interested in that idea of the the directions and the many things that poetry can do and ways that it can do it in terms of your response to-- your response to the"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4ed2311c-1adb-4b72-9cb4-709d5995821a",
+      "start_time": 2192.7,
+      "end_time": 2195.52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "responses to Garrison Keillor's anthology."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "88030b73-5949-49d7-a13f-964913052b21",
+      "start_time": 2197.5,
+      "end_time": 2203.56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rita Dove: Mhmm, yeah, yeah. That just, that anthology, that made me so mad."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
 }
